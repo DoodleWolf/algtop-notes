@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "cb58eb213e56751c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0986d0f3d86c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57481970e2dd827b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cw-complexes/CW Complex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CW Complex"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6ef4e44d84e7f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a994a1518bfed7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca3e3ad158149721",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccba95dda975bd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcf73ec51bc9faa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89a0ce530fd3b3fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8f7178aca74e95c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76bd84fbd3f36e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c9f6bba6b684b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e8052e47fcfe1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "466e66b24e5b0331",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "73116c6223868254",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d48b0213ee155865",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75a994a1518bfed7",
+  "lastOpenFiles": [
+    "cw-complexes/CW Complex.md",
+    "cw-complexes/Regular CW Complex.md",
+    "general-topology/Open Sets in Euclidean Space are Unions of Rectangles.md",
+    "cw-complexes/Attaching n-Cells.md",
+    "general-topology/Discrete Topology.md",
+    "general-topology/Disjoint Union Space.md",
+    "general-topology/Euclidean Topology.md",
+    "general-topology/continuity/Local Criterion for Continuity.md",
+    "general-topology/continuity/Restriction of Continuous to Open Set is Continuous.md",
+    "general-topology/continuity/Identity is Continuous.md",
+    "general-topology/continuity/Constant Function is Continuous.md",
+    "general-topology/continuity/Composition of Continuous is Continuous.md",
+    "other/Rectangle.md",
+    "other/Partition.md",
+    "other/Equivalence Class.md",
+    "cw-complexes/Subcomplex.md",
+    "cw-complexes/Skeleton of CW Complex.md",
+    "cw-complexes/Regular Cell.md",
+    "cw-complexes/Finite Cell Complex.md",
+    "cw-complexes/Cell Decomposition.md",
+    "cw-complexes/Cell Complex.md",
+    "cw-complexes/Cell.md",
+    "cw-complexes/Locally Finite Cell Complex.md",
+    "general-topology/T2 Property is Hereditary.md",
+    "general-topology/Homeomorphism.md",
+    "general-topology/Basis.md",
+    "data/images/attaching ball to cylinder.png",
+    "other",
+    "cw-complexes",
+    "general-topology/continuity",
+    "general-topology/connectedness",
+    "general-topology/compactness",
+    "general-topology",
+    "data/Image Bank/attaching ball to cylinder.png",
+    "data/Image Bank/Stereographic  Projection.png",
+    "data/templates",
+    "data/images",
+    "data"
+  ]
+}
