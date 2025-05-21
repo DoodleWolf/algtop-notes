@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:homotopy",
+      "color": {
+        "a": 1,
+        "rgb": 12735231
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121523,
+  "scale": 0.3137407329059443,
   "close": false
 }
