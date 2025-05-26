@@ -7,5 +7,5 @@
 $F$ is a *deformation retraction* of $X$ onto $A$ if
 - $f(x,t)|_A = \text{Id}_A$ 
 - $f(x,0)= Id_X$
-- $f(X,1) = A$
+- $f(X,1) = Y$
 
